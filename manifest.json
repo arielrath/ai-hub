@@ -1,5 +1,6 @@
 
 {
+  "id": "./",
   "name": "AI HUB",
   "short_name": "AI HUB",
   "description": "Your personal AI workspace",
@@ -8,6 +9,14 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#080b20",
-  "theme_color": "#171044"
+  "theme_color": "#171044",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
 
