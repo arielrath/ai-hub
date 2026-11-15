@@ -1,1 +1,13 @@
 
+{
+  "name": "AI HUB",
+  "short_name": "AI HUB",
+  "description": "Your personal AI workspace",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b20",
+  "theme_color": "#171044"
+}
+
